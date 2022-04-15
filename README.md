@@ -369,23 +369,23 @@ _Para realizar testes de biometria em localhost, o relyingParty Id deve ser 'loc
 
 _Clique nos 3 pontos ao lado da engrenagem -_
 
-![image.png](/.attachments/image-862dd89f-0ee2-43db-8294-489d24354d9e.png)
+![image](https://user-images.githubusercontent.com/77635828/163494902-e23890ca-1578-4612-9d76-e0141b79f407.png)
 
 _Busque a opção **'more tools'** -_
 
-![image.png](/.attachments/image-0f96088c-7b09-4a2b-8e0c-8e063e89035c.png)
+![image](https://user-images.githubusercontent.com/77635828/163494915-6d5950fe-91d9-46a8-8960-8e7e2a5caa9b.png)
 
 _Procure e clique na opção **WebAuthn**_
 
 _Marque a opção exibida na imagem_
 
-![image.png](/.attachments/image-e899aca3-ae67-42c2-93c3-ec07a6dcf8a1.png)
+![image](https://user-images.githubusercontent.com/77635828/163494934-e06befb7-2abe-4bb3-9bd9-d2a0d73f8833.png)
 
 
 
 _Siga a configuração abaixo_
 
-![image.png](/.attachments/image-667630d2-fb10-455d-b497-56deed744891.png)
+![image](https://user-images.githubusercontent.com/77635828/163495089-2859a88b-28ca-443f-91a1-c41c760a2347.png)
 
 _Clique em **'Add'**_
 
