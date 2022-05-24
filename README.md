@@ -391,6 +391,9 @@ _Clique em **'Add'**_
 
 _E pronto, agora é só ser feliz !_
 
+**OBS**
+Para salvar a credencial no seu back-end, basta criptografá-la e armazená-la em um banco de dados de maneira que a mesma esteja atrelada ao ID do usuário ! 
+
 
 :star:  **Fim**  :star:
 
